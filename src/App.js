@@ -33,9 +33,7 @@ function App() {
     return (
         <div>
             <h2>Expense Tracker App</h2>
-
             <Expenses expenses={expenses}></Expenses>
-
         </div>
     );
 }
